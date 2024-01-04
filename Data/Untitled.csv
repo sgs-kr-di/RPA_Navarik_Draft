@@ -1,0 +1,109 @@
+﻿Column-0,Column-1,Column-2,Column-3,Column-4,Column-5,Column-6,Column-7,Column-8,Column-9
+Not Performed,Test,Method Used,Spec,Result,,UOM,ON Spec,OFF Spec,Comment
+,Appearance,"* 
+[OTHER] Visual",n/a,,*,"pass/fail
+visual",,,
+,"API Gravity, Density, Relative Density (Specific Gravity) by Digital Density Meter or Oscillating U-tube Method","* 
+[ASTM] D4052",Report only,"<
+<=
+>
+>=
+=",*,"API@60°F
+g/ml
+kg/m³
+kg/l
+n/a",,,
+,"API Gravity, Density, Relative Density (Specific Gravity) by Digital Density Meter or Oscillating U-tube Method","* 
+[ASTM] D4052",Report only,"<
+<=
+>
+>=
+=",*,"API@60°F
+g/ml
+kg/m³
+kg/l
+n/a",,,
+,Density @ 20C,"* 
+[ASTM] D4052",Report only,"<
+<=
+>
+>=
+=",*,"g/ml
+kg/m³
+kg/l
+n/a",,,
+,Color of Petroleum Products (ASTM Scale),"* 
+[ASTM] D1500",max = 1.5 (buy),"<
+<=
+>
+>=
+=",*,"haze no
+pass/fail
+rating
+visual",,,
+,Viscosity - Kinematic at 40ºC (104ºF),"* 
+[ASTM] D445",min = 100 (buy),"<
+<=
+>
+>=
+=",*,"cSt
+Engler
+mm²/s
+Pa·s
+SUS",,,
+,Viscosity - Kinematic at 100ºC (212ºF),"* 
+[ASTM] D445",min = 11.7 / max = 12.9 (buy),"<
+<=
+>
+>=
+=",*,"cSt
+Engler
+mm²/s
+Pa·s
+SUS",,,
+,Viscosity Index (Including Tests),"* 
+[ASTM] D2270",min = 95 (buy),"<
+<=
+>
+>=
+=",*,"cSt
+Engler
+mm²/s
+Pa·s
+SUS",,,
+,Flash Point,"* 
+[ASTM] D92",min = 246 (buy),"<
+<=
+>
+>=
+=",*,"°C
+°F
+Yes/No",,,
+,Pour Point,"* 
+[ASTM] D97",max = -12 (buy),"<
+<=
+>
+>=
+=",*,"°C
+°F",,,
+,Water Content - Karl Fischer (Coulometric),"* 
+[ASTM] D6304",Report only,"<
+<=
+>
+>=
+=",*,"mg/kg
+ppm
+%wt
+%vol",,,
+,Sulfur Content,"* 
+[ASTM] D5453",Report only,"<
+<=
+>
+>=
+=",*,"μg/g
+mg/kg
+mg/l
+ppm
+%m
+%m/m
+%wt",,,
